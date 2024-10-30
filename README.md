@@ -44,7 +44,7 @@ To use or contribute to this repository, you’ll need to clone it to your local
 Each question is stored in its folder. Here’s the general structure of the repository:
 
 
-##Usage
+## Usage
 
 1. Browsing Questions – Open the relevant topic folder (e.g., arrays, linked_lists, etc.) to find questions related to that data structure or algorithm.
 2. Running Solutions – To run solutions, you can use your local environment, or if you are using a specific programming language, open the relevant file in a code editor or IDE and run it directly.
