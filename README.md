@@ -1,6 +1,6 @@
 # ALX-Interview
 
-Welcome to the **ALX Interview** repository! This repository is a collection of technical interview questions and solutions designed to help you prepare for job interviews and sharpen your problem-solving skills in computer science and software engineering. Each question is organized by topic and includes a detailed solution, explanations, and additional resources for deeper understanding.
+Welcome to the **ALX Interview** repository! This repository is a collection of technical interview questions and solutions designed to help prepare for software engineering job interviews and sharpen problem-solving skills in computer science and software engineering. Each question is organized by topic and includes a detailed solution, explanations, and additional resources for deeper understanding.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
