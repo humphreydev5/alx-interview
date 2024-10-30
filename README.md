@@ -27,6 +27,22 @@ Each question has a solution file along with an explanation to help users unders
 
 ## Folder Structure
 
+
+Each **question folder** contains:
+1. **Solution file(s)** – Code implementations in various languages (e.g., Python, JavaScript, C++).
+2. **README.md** – Explanation of the solution, complexity analysis, and possible extensions.
+
+---
+
+## Installation
+
+To use or contribute to this repository, you’ll need to clone it to your local machine. Follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/username/alx-interview.git
+
+
 Each question is stored in its own folder. Here’s the general structure of the repository:
 
 
